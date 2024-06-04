@@ -1,0 +1,1 @@
+Este projeto visa desenvolver uma aplicação Web dedicada à gestão dos graduados da Licenciatura em Tecnologias e Sistemas de Informação para a Web da ESMAD. Com esta plataforma pretende-se facilitar a manutenção do contacto com os ex-alunos após o término do curso e o início das suas carreiras profissionais.
